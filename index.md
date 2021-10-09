@@ -37,7 +37,7 @@
         <h2>片</h2>
       </td>
       <td width="70%">
-        <img src="mmexport1627391006434.jpg" width=60%>
+        <img src="mmexport1627391006434.jpg" width=40%>
       </td>
     </tr>
   </table>
