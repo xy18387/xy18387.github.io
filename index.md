@@ -28,6 +28,19 @@
         </li>
       </ul>
   </body>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h2>我</h2>
+        <h2>的</h2>
+        <h2>照</h2>
+        <h2>片</h2>
+      </td>
+      <td width="50%">
+        <img src="mmexport1627391006434.jpg" width=60%>
+      </td>
+    </tr>
+  </table>
 </html>      
 
 
